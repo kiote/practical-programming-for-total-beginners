@@ -17,6 +17,14 @@ This course is made for you if:
 * You would like to automate some of your daily tasks, but have not enough knowledge about what is possible to automate and how to do it;
 * You would like to understand what are you actually doing, not just copy-paste code and hope it works.
 
+### What's in this course?
+
+It has two big parts: theory and practical exercises. 
+
+The main programming language used in this course is Python. It was chosen mainly because it is very popular, so you’ll be able to find help very easy, there are tons of resources for Python beginners. Another reason it’s relatively easy to start with your first working program in Python, usually it’s already pre-installed in your operating system.
+
+
+
 
 
 
