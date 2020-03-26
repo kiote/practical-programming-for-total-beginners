@@ -23,6 +23,10 @@ It has two big parts: theory and practical exercises.
 
 The main programming language used in this course is Python. It was chosen mainly because it is very popular, so you’ll be able to find help very easy, there are tons of resources for Python beginners. Another reason it’s relatively easy to start with your first working program in Python, usually it’s already pre-installed in your operating system.
 
+### What I’ll be able to do after finishing this course?
+
+There are several practical tasks in this course, which can be used as ready projects, for example: checking some websites automatically for updates, renaming files in bulk, updating Excel spreadsheets and more, the only limit is your fantasy!
+
 
 
 
