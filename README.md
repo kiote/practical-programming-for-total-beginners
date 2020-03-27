@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to course
 
 There are tons of resources online which promise to teach you how to program. Why do we need yet another one?
 
@@ -20,6 +20,8 @@ This course is made for you if:
 ### What's in this course?
 
 It has two big parts: theory and practical exercises. 
+
+Theory is going to be presented in a less formal way than regular courses probably do, but it's always better to explain complex stuff in an easy way, than to explain easy stuff in a complex way, right?
 
 The main programming language used in this course is Python. It was chosen mainly because it is very popular, so you’ll be able to find help very easy, there are tons of resources for Python beginners. Another reason it’s relatively easy to start with your first working program in Python, usually it’s already pre-installed in your operating system.
 
