@@ -20,5 +20,18 @@ Several examples of programming languages: C++, Java, Python, PHP, Haskell. Ther
 
 The main programming language used in this course is Python. It was chosen mainly because it is very popular, so you’ll be able to find help very easy, there are many resources for Python beginners available. Another reason it’s relatively easy to start with your first working program in Python, usually it’s already pre-installed in your operating system.
 
-These “ways” are usually being called algorithms.
+### Can I use different programming language?
+
+All examples can be done with any programming language of general purpose. But if you are a beginner, it is highly recommended to follow the course with Python language.
+
+### What is algorithm and why it's important?
+
+Algorithm is some description of actions that have to be done to achieve a result. For example, here is an algorithm of how to fall asleep:
+
+1. Go to bedroom;
+2. Lay down to the bed and close your eyes;
+3. Lay still and pretend that you are sleeping;
+4. Keep pretending till falling asleep.
+
+As you see, there might be different levels of detalization for algorithms. But in general before writing a program for a computer you need to know yourself, how to do the task you are trying to describe. Which means also, that once you know how to solve some problem, you know how to describe it to the computer. Now the only step you need to take is to write it down in Python!
 

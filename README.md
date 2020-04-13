@@ -25,8 +25,9 @@ It has two parts: theory and practical exercises. Theory will help you to get th
 
 ### What I will be able to do after finishing this course?
 
-1. You will be able to understand basic principles of programming. What is program, what is algorithm, what is variable, etc.
+1. You will be able to understand basic principles of programming. What is program, what is algorithm, what is variable, etc. With this, you will be able to understand more technical terms you hear;
 2. You will be able to use several small programs you've developed during this course. For example: checking some websites automatically for updates, renaming files in bulk, updating Excel spreadsheets and more, the only limit is your fantasy!
+3. You will be able to search information by yourself. You will be able to realize if information is helpful.
 
 
 
