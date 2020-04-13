@@ -21,11 +21,9 @@ This course has several differences:
 
 ### What's in this course?
 
-It has two parts: theory and practical exercises. 
+It has two parts: theory and practical exercises. Theory will help you to get the main ideas and terms you need to know. Practice though is the essential part of this course. If you plan just to read the theory, it will give you nothing without the practice.
 
-The main programming language used in this course is Python. It was chosen mainly because it is very popular, so you’ll be able to find help very easy, there are many resources for Python beginners available. Another reason it’s relatively easy to start with your first working program in Python, usually it’s already pre-installed in your operating system.
-
-### What I’ll be able to do after finishing this course?
+### What I will be able to do after finishing this course?
 
 1. You will be able to understand basic principles of programming. What is program, what is algorithm, what is variable, etc.
 2. You will be able to use several small programs you've developed during this course. For example: checking some websites automatically for updates, renaming files in bulk, updating Excel spreadsheets and more, the only limit is your fantasy!
