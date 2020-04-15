@@ -11,7 +11,8 @@ This course has several differences:
 * It doesn’t promise to make you a programmer, not even a junior one. You can use it as a start though, but it’s a big journey;
 * It has as much theory as you need to grasp main ideas, it doesn’t use any term before explaining it. So for some it might seem to be slow;
 * It expects you to do a lot of practical exercises. You can not do programming without practicing it. Course offers a lot of practice which you should not skip;
-* It requires a lot of self-educating, looking for answers online and checking up with documentation.
+* It requires a lot of self-educating, looking for answers online and checking up with documentation;
+* It requires no previous knowlegde of programming, if you know something already, you might want to skip some too-much-for-beginners parts.
 
 ### This course is made for you if
 
